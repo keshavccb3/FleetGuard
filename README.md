@@ -132,7 +132,3 @@ The previously supplied Colab point scores were close but not identical (LSTM MA
 **Plain language:** FD001's held-out engines test new units from the same simulated setting. The added noise test is only a controlled stress case.
 
 **Follow-up:** Does this prove maintenance readiness? **Answer:** No. Simulator data, one regime, assumed failure endpoints, and no operational validation limit transfer. A real deployment would need fleet-specific validation, monitoring, and maintenance-context review.
-
-## Resume bullet
-
-**Before running the benchmark:** “Built a reproducible turbofan RUL modeling pipeline with engine-level leakage controls, Ridge and LSTM baselines, validation-calibrated prediction intervals, and robustness diagnostics; benchmark results pending execution.” Replace this with measured results only after a successful run.
